@@ -1,0 +1,89 @@
+Rule 1
+
+Is this device intended to be used to detect the presence of, or exposure to: 
+
+a transmissible agent in blood, blood components, cells, tissues, organs, or in any of their derivatives, in order to assess their suitability for transfusion, transplantation or cell administration?
+
+Is this device intended to be used to detect the presence of, or exposure to a transmissible agent that causes a life-threatening disease with a high or suspected high risk of propagation?
+
+Is this device intended to determine the infectious load of a life-threatening disease where monitoring is critical in the process of patient management?
+
+Rule 2
+
+Is this device intended to be used for blood grouping, or tissue typing to ensure the immunological compatibility of blood, blood components, cells, tissue or organs that are intended for transfusion or transplantation or cell administration? 
+
+
+Is the device intended to determine any of the following markers?
+-	ABO system [A (ABO1), B (ABO2), AB (ABO3)]; 
+-	Rhesus system [RH1 (D), RHW1, RH2 (C), RH3 (E), RH4 (c), RH5 (e)]; 
+-	Kell system [Kel1 (K)]; 
+-	Kidd system [JK1 (Jka), JK2 (Jkb)]; 
+-	Duffy system [FY1 (Fya), FY2 (Fyb)]; 
+
+Rule 3
+
+Is the device intended for:
+
+detecting the presence of, or exposure to, a sexually transmitted agent; 
+
+detecting  the  presence  in  cerebrospinal  fluid  or  blood  of  an  infectious  agent  without  a  high  or  suspected high risk of propagation; 
+
+detecting  the  presence  of  an  infectious  agent,  if  there  is  a significant  risk  that  an  erroneous  result  would cause  death  or  severe  disability to  the  individual,  foetus  or  embryo  being  tested,  or  to  the  individual's offspring; 
+
+pre-natal screening of women in order  to determine their  immune status towards transmissible agents; 
+
+determining  infective  disease  status  or  immune  status,  where  there  is  a  risk  that  an  erroneous  result 
+would lead to a patient management decision resulting in a life-threatening situation for  the patient or for  the 
+patient's offspring; 
+
+to be used as companion diagnostics; 
+
+to  be  used  for  disease  staging,  where  there  is  a  risk  that  an  erroneous  result  would  lead  to  a  patient management decision resulting in a life-threatening situation for  the patient or for  the patient's offspring; 
+
+to be used in screening, diagnosis, or staging of cancer;  
+
+human genetic testing; 
+
+monitoring  of  levels  of  medicinal  products,  substances  or  biological  components,  when  there  is  a  risk that an erroneous result will lead to a patient management decision resulting in a life-threatening situation for the patient or for  the patient's offspring; 
+
+management of patients suffering from a life-threatening disease or condition; 
+
+screening for congenital disorders in the embryo or foetus; 
+
+screening  for  congenital  disorders  in  new-born  babies  where  failure  to  detect  and  treat  such  disorders could lead to life-threatening situations or severe disabilities. 
+
+
+Rule 4
+
+Is the device intended for self-testing?
+
+
+Is the device intended for:
+-	detection of pregnancy 
+-	fertility testing 
+-	determining cholesterol level
+-	the detection of glucose, erythrocytes, leucocytes and bacteria in urine
+
+Rule 5 
+
+The following devices are classified as class A: 
+(a) products for general laboratory use, accessories which possess no critical characteristics, buffer solutions, washing solutions, and general culture media and histological stains, intended by the manufacturer to make them suitable for in vitro diagnostic procedures relating to a specific examination
+(b) instruments intended by the manufacturer specifically to be used for in vitro diagnostic procedures
+(c) specimen receptacles 
+
+Is the device one of the following? 
+-	products for general laboratory use, accessories which possess no critical characteristics, buffer solutions, washing solutions, and general culture media and histological stains, intended by the manufacturer to make them suitable for in vitro diagnostic procedures relating to a specific examination
+-	instruments intended by the manufacturer specifically to be used for in vitro diagnostic procedures
+-	specimen receptacles
+
+Rule 7
+
+Is this product a calibrator which is intended to be used with a device, or software that drives or influences the use of a device?
+
+
+Is this product a control material intended for one specific analyte or multiple analytes?
+
+
+Does the control material have a quantitative or qualitative assigned value intended for one specific analyte or multiple analytes? 
+
+

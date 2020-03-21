@@ -1,0 +1,93 @@
+CLASSIFICATION RULES 
+
+2.1.   Rule 1 
+
+Devices intended to be used for  the following purposes are classified as class D: 
+
+detection  of  the  presence  of,  or  exposure  to,  a  transmissible  agent  in  blood,  blood  components,  cells,  tissues 
+or  organs,  or  in  any  of  their  derivatives,  in  order  to  assess  their  suitability  for  transfusion,  transplantation  or 
+cell administration; 
+
+detection  of  the  presence  of,  or  exposure  to,  a  transmissible  agent  that  causes  a  life-threatening  disease  with 
+
+a high or suspected high risk of propagation; 
+
+determining  the  infectious  load  of  a  life-threatening  disease  where  monitoring  is  critical  in  the  process  of patient management. 
+
+2.2.   Rule 2 
+
+Devices  intended  to  be  used  for  blood  grouping,  or  tissue  typing  to  ensure  the  immunological  compatibility  of blood,  blood  components,  cells,  tissue  or  organs  that  are  intended  for  transfusion  or  transplantation  or  cell administration, are classified as class C, except when intended to determine any of  the following markers: 
+
+—  ABO system [A (ABO1), B (ABO2), AB (ABO3)]; 
+
+—  Rhesus system [RH1 (D), RHW1, RH2 (C), RH3 (E), RH4 (c), RH5 (e)]; 
+
+—  Kell system [Kel1 (K)]; 
+
+—  Kidd system [JK1 (Jka), JK2 (Jkb)]; 
+
+—  Duffy system [FY1 (Fya), FY2 (Fyb)]; 
+
+in which case they are classified as class D. 
+
+2.3.   Rule 3 
+
+Devices are classified as class C if  they are intended: 
+
+for detecting the presence of, or exposure to, a sexually transmitted agent; 
+
+for  detecting  the  presence  in  cerebrospinal  fluid  or  blood  of  an  infectious  agent  without  a  high  or  suspected high risk of propagation; 
+
+for  detecting  the  presence  of  an  infectious  agent,  if  there  is  a significant  risk  that  an  erroneous  result  would cause  death  or  severe  disability to  the  individual,  foetus  or  embryo  being  tested,  or  to  the  individual's offspring; 
+
+for pre-natal screening of women in order  to determine their  immune status towards transmissible agents; 
+
+for  determining  infective  disease  status  or  immune  status,  where  there  is  a  risk  that  an  erroneous  result 
+would lead to a patient management decision resulting in a life-threatening situation for  the patient or for  the 
+patient's offspring; 
+
+to be used as companion diagnostics; 
+
+to  be  used  for  disease  staging,  where  there  is  a  risk  that  an  erroneous  result  would  lead  to  a  patient management decision resulting in a life-threatening situation for  the patient or for  the patient's offspring; 
+
+to be used in screening, diagnosis, or staging of cancer;  
+
+for human genetic testing; 
+
+for management of patients suffering from a life-threatening disease or condition; 
+
+for  monitoring  of  levels  of  medicinal  products,  substances  or  biological  components,  when  there  is  a  risk that an erroneous result will lead to a patient management decision resulting in a life-threatening situation for the patient or for  the patient's offspring; 
+
+for  screening  for  congenital  disorders  in  new-born  babies  where  failure  to  detect  and  treat  such  disorders could lead to life-threatening situations or severe disabilities. 
+
+for screening for congenital disorders in the embryo or foetus; 
+
+
+
+2.4.   Rule 4 
+
+(a)   Devices  intended  for  self-testing are  classified  as  class  C,  except  for  devices  for  the  detection  of  pregnancy,  for 
+fertility  testing  and  for  determining  cholesterol  level,  and  devices  for  the  detection  of  glucose,  erythrocytes, 
+leucocytes and bacteria in urine, which are classified as class B. 
+
+(b)  Devices intended for near-patient testing are classified in their own right. 
+
+2.5.   Rule 5 
+
+The following devices are classified as class A: 
+
+(a)   products  for  general  laboratory  use,  accessories  which  possess  no  critical  characteristics,  buffer  solutions, 
+washing  solutions,  and  general  culture  media  and  histological  stains,  intended  by  the  manufacturer  to  make 
+them suitable for in vitro diagnostic procedures relating to a specific examination; 
+
+(b)  instruments intended by the manufacturer specifically to be used for in vitro diagnostic procedures; 
+
+(c)   specimen receptacles. 
+
+2.6.   Rule 6 
+
+Devices not covered by the above-mentioned classification rules are classified as class B. 
+
+2.7.   Rule 7 
+
+Devices which are controls without a quantitative or qualitative assigned value are classified as class B.  
